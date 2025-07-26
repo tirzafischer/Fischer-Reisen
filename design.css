@@ -6,7 +6,7 @@ html {
 
 @font-face {
     font-family: "nobile";
-    src: url("nobile/Nobile-Regular.ttf") format("truetype");
+    src: url("Nobile/Nobile-Regular.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
